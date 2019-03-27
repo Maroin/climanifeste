@@ -258,7 +258,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Philippe Villiers](https://github.com/kissifrot), développeur back-end
 * [Damien Vouzellaud](https://www.linkedin.com/in/damien-vouzellaud-277193167/), IT project manager
 * [Sylvain Yner](https://fr.linkedin.com/in/sylvain-y-58403198), Front-end Dev
-
+* [Maroin Dandachi](https://maroin.fr), formateur 
 ### personnes morales
 
 * [Codeurs en Liberté](https://www.codeursenliberte.fr/), Coopérative d’indépendant·e·s en informatique
